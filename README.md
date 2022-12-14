@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Picture" height="150" style="border-radius:10%!important;" src="https://instagram.fpoa40-1.fna.fbcdn.net/v/t51.2885-19/313910203_465973648936006_7367752012913717407_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpoa40-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3_5aAl6ZOYEAX_3fwWT&tn=1q7n2ZzSK1hha0ps&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfA8hb2ELWPyv-6KEP8DjVUMzmzupgu0Xmjsbxci4ZuTyQ&oe=639E4D94&_nc_sid=1527a3">
+  <img align="right" alt="Picture" height="150" style="border-radius:100%!important;" src="https://instagram.fpoa40-1.fna.fbcdn.net/v/t51.2885-19/313910203_465973648936006_7367752012913717407_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpoa40-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3_5aAl6ZOYEAX_3fwWT&tn=1q7n2ZzSK1hha0ps&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfA8hb2ELWPyv-6KEP8DjVUMzmzupgu0Xmjsbxci4ZuTyQ&oe=639E4D94&_nc_sid=1527a3">
 </div>
   
   ##
