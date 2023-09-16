@@ -1,4 +1,4 @@
-## Olá sou Kaiã, Front-end e Designer Digital.<br>
+## Olá, me chamo Kaiã Werb, Front-end e Designer Digital.<br>
 <div align="center">
   <a href="https://github.com/kaiawerb">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=kaiawerb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
