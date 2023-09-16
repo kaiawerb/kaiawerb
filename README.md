@@ -18,6 +18,6 @@
   <a href="https://discord.gg/7WvjZPfAc9" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.behance.net/kaiawerb" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
 
-  ![Snake animation](https://github.com/kaiawerb/kaiawerb/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kaiawerb/kaiawerb/blob/output/github-contribution-grid-snake.gif)
  
 </div>
