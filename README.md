@@ -4,7 +4,7 @@
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 
-## 💜 Olá, meu nome é <strong>Kaiã Werb!</strong>
+## 👋 Olá, meu nome é <strong>Kaiã Werb!</strong>
 
 > Desenvolvedor Front-end e Designer Digital.
 
@@ -16,7 +16,7 @@
 
 📬 Para entrar em contato comigo, basta clicar em um dos botões no topo desta página.
 
-🚀 Obrigado por visitar o meu perfil e espero que possamos colaborar em breve.
+💙 Obrigado por visitar o meu perfil e espero que possamos colaborar em breve.
 
 ---
 
