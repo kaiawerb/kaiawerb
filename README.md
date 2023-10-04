@@ -17,6 +17,7 @@
 📬 Para entrar em contato comigo, basta clicar em um dos botões no topo desta página.
 
 🚀 Obrigado por visitar o meu perfil e espero que possamos colaborar em breve.
+
 ---
 
 ## 🚀 Minhas Skills
