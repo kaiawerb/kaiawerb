@@ -6,7 +6,7 @@
 
 ## 👋 Olá, meu nome é <strong>Kaiã Werb!</strong>
 
-> Desenvolvedor Front-end e Designer Digital.
+> Desenvolvedor Front-end e Filmagens aéreas.
 
 🔭 Atualmente, estou trabalhando no desenvolvimento de um gerenciador imobiliário, tive também a oportunidade de contribuir para vários outros projetos. Você pode conferir detalhes sobre essas contribuições no meu portfólio.
 
