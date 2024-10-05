@@ -1,9 +1,7 @@
 <div> 
   <a href="https://instagram.com/kwerb_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kaiawerb/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white" style="max-width: 100%;"></a>
-</div>
-
+  
 ## 👋 Olá, meu nome é <strong>Kaiã Werb!</strong>
 
 > Desenvolvedor Front-end e Filmagens aéreas.
