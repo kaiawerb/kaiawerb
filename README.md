@@ -8,7 +8,7 @@
 
 🔭 Atualmente, estou trabalhando no desenvolvimento de um gerenciador imobiliário, tive também a oportunidade de contribuir para vários outros projetos. Você pode conferir detalhes sobre essas contribuições no meu portfólio.
 
-💬 Estou sempre aberto a oportunidades de freelancers e novas colaborações emocionantes. Se você está em busca de um parceiro para se juntar a projetos, estou preparado para oferecer meu conhecimento e habilidades para contribuir de maneira significativa.
+💬 Estou sempre aberto a oportunidades de freelancers e novas colaborações. Se você está em busca de um parceiro para se juntar a projetos, estou preparado para oferecer meu conhecimento e habilidades para contribuir de maneira significativa.
 
 🤝 Além disso, se você tiver alguma dúvida, sugestão ou apenas quiser trocar ideias sobre tecnologia, programação ou qualquer outro tópico relacionado, sinta-se à vontade para entrar em contato.
 
